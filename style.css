@@ -15,7 +15,6 @@ html {
 }
 
 header {
-  /* background-color: orangered; */
   height: 100vh;
   position: relative;
 
@@ -35,7 +34,6 @@ nav {
   display: flex;
   justify-content: space-between;
   padding-top: 32px;
-  /* background-image: linear-gradient(to right, red, blue); */
 }
 
 .header-container {
@@ -48,15 +46,10 @@ nav {
 
   /* In relation to ELEMENT size */
   transform: translate(-50%, -50%);
-
-  /* background-color: violet; */
-
-  /* text-align: center; */
 }
 
 .header-container-inner {
   width: 50%;
-  /* background-color: blue; */
 }
 
 h1 {
